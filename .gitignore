@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 # Custom directiries
-arcuda/coolers
-arcuda/genome
-ChIP-Seq
+data/ChIP-Seq
+data/coolers
+data/genome
+data/HiGlass/coolers
+
